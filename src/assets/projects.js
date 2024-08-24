@@ -2,7 +2,7 @@ const projectsData = [
   {
     name: 'Food Del',
     image: '/food-del.png',
-    description: 'A brief description of Project 1 and its key features.',
+    description: 'A full stack project. Frontend - Backend - Admin Panel.',
     github: 'https://github.com/Sojo506/front-food-del',
     livepreview: 'https://front-food-del.vercel.app/',
   },
