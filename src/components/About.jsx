@@ -1,4 +1,4 @@
-import { Linkedin, Mail, Github } from 'lucide-react';
+import { Linkedin, Mail, Github, PaintRoller } from 'lucide-react';
 
 function AboutSection() {
   return (
@@ -28,6 +28,13 @@ function AboutSection() {
             target='_blank'
           >
             <Github className='w-6 h-6' />
+          </a>
+          <a
+            href='https://www.frontendmentor.io/profile/Sojo506/solutions'
+            className='text-green-400 hover:text-green-300 transition-colors'
+            target='_blank'
+          >
+            <PaintRoller className='w-6 h-6' />
           </a>
           <a
             href='https://www.linkedin.com/in/fsojodev/'
